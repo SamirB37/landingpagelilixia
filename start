@@ -1,0 +1,87 @@
+<html><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>TODO</title>
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="+HW7RUsxX7YECPuEcpE8F/H9OjwTfv1DIfHgEA9IN3e57LNKbBkAqBTgpIo7jnu3BVZ+qqkm77WrjL5jnxI2Tw==">
+    <meta name="action-cable-url" content="/cable">
+    <link rel="stylesheet" media="all" href="/assets/application-f3be6afb47b52c4e56e3feb106e3377471ac651cdd045dba7c8b4c33f7f28469.css">
+     <!-- Uncomment if you import CSS in app/javascript/packs/application.js -->
+  </head>
+  <body cz-shortcut-listen="true">
+    <div class="navbar-wagon">
+  <!-- Logo -->
+    <h2><img height="50" src="/assets/logo-2f0afe424e4c9602fceee1dc5aeb15316f199ac68d7b646e1fca2cd3237678cd.png"> LiliXia | 粒粒侠</h2>
+
+  <!-- Right Navigation -->
+  <div class="navbar-wagon-right hidden-xs hidden-sm">
+
+      <!-- Login link (when logged out) -->
+
+      <a class="navbar-wagon-item navbar-wagon-link" href="/users/sign_in">Login</a>
+      <a class="navbar-wagon-item navbar-wagon-link" href="/users/sign_in">Language</a>
+      <a class="navbar-wagon-item navbar-wagon-link" href="/users/sign_in">About us</a>
+  </div>
+
+  <!-- Dropdown list appearing on mobile only -->
+  <div class="navbar-wagon-item hidden-md hidden-lg">
+    <div class="dropdown">
+      <i class="fa fa-bars dropdown-toggle" data-toggle="dropdown"></i>
+      <ul class="dropdown-menu dropdown-menu-right navbar-wagon-dropdown-menu">
+        <li><a href="#">Some mobile link</a></li>
+        <li><a href="#">Other one</a></li>
+        <li><a href="#">Other one</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+    
+    
+  <title>Startup Landing Page</title>
+
+
+
+    <main class="wrapper">
+    <section class="section parallax bg1">
+      <div class="container">
+
+            <div id="content">
+              <h1>Welcome to<br>LiliXia | 粒粒侠</h1>
+              <h3>LiliXia is an app that helps restaurants use their resources<br>wisely and promote discounts on their site.<br> <br>Connect to foodies with LiliXia and reduce food-waste</h3>
+              <hr>
+              <a class="btn btn-warning" href="/users/sign_in">Login</a>
+            </div>
+          </div>
+        
+      
+    
+  </section>
+
+  <section class="section static">
+    <h2> <img src="/assets/bowl-f70ba0fb8de36fcbaa6a74182598d7c809f48aa63a0593edb72416338b3c7234.png">
+<!--       <img src="/assets/images/bowl.png" style="float:left;width:42px;height:42px;">  -->
+      LiliXia is an app that helps restaurants to shed their excess inventory by allowing them to offer discounts on our platform of food that would otherwise be
+      disposed of.<br><br><br><br><img style="width:100px;" src="/assets/post-ab461946731f62dcaed16dbb9e92293fe4f72ce5de7ce17a49d2f71034d20d0e.png">The app is designed to offer restaurants the flexibility to post their own promotions of whatever excess food they have in stock in addition to setting the price they wish for the product.<br><br><br><br><img style="width:100px;" src="/assets/location-88357c419c8560e705e35d7415e8cd150131848a36c92334d132c6d35664b3ce.png">Customers will see the location of the restaurant and can claim their product by clicking on it</h2>
+  </section>
+
+  <section class="section parallax bg2">
+    <h2 class="address">Contact Information: 819 Wujian Lu, 3rd Floor, <br>Shanghai, China
+    <br>Phone Number: +86 18817373070
+    <br>email: info@lilixia.com</h2>
+  </section>
+</main>
+
+<!-- SCRIPTS
+BOOTSTRAP ALWAYS NEEDS JQUERY RAN FIRST -->
+<script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+
+    <script src="/assets/application-56cbdcef629b23c0a8ba1007f255dedb7f58ff63c34d70c0987bf0ce4493d585.js"></script>
+    <script src="/packs/application-8ed494e6ceb66b29d5e0.js"></script>
+  
+
+</body></html>
